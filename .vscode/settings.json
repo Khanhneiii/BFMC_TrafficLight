@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "mqtt_client.h": "c",
+    "mqtt.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM21"
+}
